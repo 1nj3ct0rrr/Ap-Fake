@@ -5,7 +5,7 @@ But this receipts is for [Ap(آپ)](https://asanpardakht.ir/) receipts that it's
 
 I hope you enjoy with this android app
 
-If you like that, please give star to this project and share i with other...
+If you like that, please give star to this project and share this app with others...
 Sorry for my bad English (:
 
 ### Demo
