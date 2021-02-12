@@ -10,9 +10,9 @@ Sorry for my bad English (:
 
 ### Demo
 
-You can [run](https://appetize.io/app/vf3dttdx0jd593r7xg966cqpa4) app online!
+You can [run](https://appetize.io/app/vf3dttdx0jd593r7xg966cqpa4) app online
 
-### ScreenShots
+### Screenshots
 
 ![Image1](https://uupload.ir/files/kaz7_whatsapp_image_2021-01-19_at_4.21.31_pm.jpeg)
 
