@@ -1,16 +1,16 @@
 # Ap-Fake
 
-Ap-Fake is a persian app for making fake receipts
-But this receipts is for [Ap(آپ)](https://asanpardakht.ir/) receipts that it's an Iranian online payment
+Ap-Fake is a persian app for making fake receipts 📝
+But this receipts is for [Ap(آپ)](https://asanpardakht.ir/) receipts that it's an Iranian online payment 🇮🇷
 
-I hope you enjoy with this android app
+I hope you enjoy with this android app 😉
 
-If you like that, please give star to this project and share this app with others...
-Sorry for my bad English (:
+If you like that, please give star to this project and share this app with others... ⭐
+Sorry for my bad English 🙏
 
 ### Demo
 
-You can [run](https://appetize.io/app/vf3dttdx0jd593r7xg966cqpa4) app online
+You can [run](https://appetize.io/app/vf3dttdx0jd593r7xg966cqpa4) app online 🤩
 
 ### Screenshots
 
