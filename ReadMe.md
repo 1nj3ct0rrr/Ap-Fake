@@ -1,7 +1,7 @@
 # Ap-Fake
 
-Ap-Fake is a persian app for making fake receipts 📝
-But this receipts is for [Ap(آپ)](https://asanpardakht.ir/) receipts that it's an Iranian online payment 🇮🇷
+This Android app gives you the ability to create fake bank receipts 🧾
+Note that this program is only for Iranian banks and unfortunately does not apply to banks outside Iran 😒🇮🇷
 
 I hope you enjoy with this android app 😉
 
