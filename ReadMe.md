@@ -1,4 +1,4 @@
-# Ap-Fake
+# Ap Fake
 
 This Android app gives you the ability to create fake bank receipts 🧾
 
