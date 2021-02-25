@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="cardview_compat_inset_shadow">1.0dip</dimen>
-    <dimen name="cardview_default_elevation">2.0dip</dimen>
-    <dimen name="cardview_default_radius">2.0dip</dimen>
-</resources>
