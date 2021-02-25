@@ -6,11 +6,24 @@ Note that this program is only for Iranian banks and unfortunately does not appl
 
 If you like this program, give this repository a ⭐ and 🍴 it 🤩
 
-### Demo
+## Demo
 
 You can run this program online in your browser with [this link](https://appetize.io/app/vf3dttdx0jd593r7xg966cqpa4?device=nexus5) 🔗
 
-### Screenshots
+## Versions
+
+
+The differences between the versions are not very great, but there are minor variations between the versions that we will check it 😁
+
+  * Version 1.0
+
+    In this version, you have access o 20 Iranian banks 🤔
+  
+  * Version 2.0
+
+    In this version, you have access to 25 Iranian banks and also the receipts have been updated graphically 🤩
+
+## Screenshots
 
 ![Image1](https://uupload.ir/files/ujwr_3.png)
 
