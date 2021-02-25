@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="attr" name="cardBackgroundColor" id="0x7f010000" />
+    <public type="attr" name="cardCornerRadius" id="0x7f010001" />
+    <public type="attr" name="cardElevation" id="0x7f010002" />
+    <public type="attr" name="cardMaxElevation" id="0x7f010003" />
+    <public type="attr" name="cardUseCompatPadding" id="0x7f010004" />
+    <public type="attr" name="cardPreventCornerOverlap" id="0x7f010005" />
+    <public type="attr" name="contentPadding" id="0x7f010006" />
+    <public type="attr" name="contentPaddingLeft" id="0x7f010007" />
+    <public type="attr" name="contentPaddingRight" id="0x7f010008" />
+    <public type="attr" name="contentPaddingTop" id="0x7f010009" />
+    <public type="attr" name="contentPaddingBottom" id="0x7f01000a" />
+    <public type="drawable" name="icon" id="0x7f020000" />
+    <public type="style" name="CardView" id="0x7f030000" />
+    <public type="style" name="Base.CardView" id="0x7f030001" />
+    <public type="style" name="CardView.Dark" id="0x7f030002" />
+    <public type="style" name="CardView.Light" id="0x7f030003" />
+    <public type="color" name="cardview_dark_background" id="0x7f040000" />
+    <public type="color" name="cardview_light_background" id="0x7f040001" />
+    <public type="color" name="cardview_shadow_end_color" id="0x7f040002" />
+    <public type="color" name="cardview_shadow_start_color" id="0x7f040003" />
+    <public type="dimen" name="cardview_compat_inset_shadow" id="0x7f050000" />
+    <public type="dimen" name="cardview_default_elevation" id="0x7f050001" />
+    <public type="dimen" name="cardview_default_radius" id="0x7f050002" />
+    <public type="string" name="app_name" id="0x7f060000" />
+</resources>
