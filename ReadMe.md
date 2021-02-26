@@ -2,7 +2,7 @@
 
 This Android app gives you the ability to create fake bank receipts 🧾
 
-Note that this program is only for Iranian banks and unfortunately does not apply to banks outside Iran 😒🇮🇷
+Note that this program is only for *Iranian* banks and unfortunately does not apply to banks outside Iran 😒🇮🇷
 
 If you like this program, give this repository a ⭐ and 🍴 it 🤩
 
@@ -17,11 +17,11 @@ The differences between the versions are not very great, but there are minor var
 
   * Version 1.0
 
-    In this version, you have access to 20 Iranian banks 🤔
+    In this version, you have access to **20 Iranian** banks 🤔
   
   * Version 2.0
 
-    In this version, you have access to 25 Iranian banks and also the receipts have been updated graphically 🤩
+    In this version, you have access to **25 Iranian banks** and also the receipts have been updated graphically 🤩
 
 ## Screenshots
 
