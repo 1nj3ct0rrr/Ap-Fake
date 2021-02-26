@@ -17,7 +17,7 @@ The differences between the versions are not very great, but there are minor var
 
   * Version 1.0
 
-    In this version, you have access o 20 Iranian banks 🤔
+    In this version, you have access to 20 Iranian banks 🤔
   
   * Version 2.0
 
