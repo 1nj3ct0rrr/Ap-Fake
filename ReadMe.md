@@ -51,15 +51,16 @@ The differences between the versions are not very great, but there are minor var
  </a>
 </p>
 
+
 <p>
- <a href="https://linkedin.com/in/1nj3ct0r">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ <a href="https://leetcode.com/1nj3ct0r/">
+  <img src="https://img.shields.io/badge/LeetCode-white?style=flat&logo=leetcode&labelColor=white">
  </a>
 </p>
 
 <p>
- <a href="https://linkedin.com/in/1nj3ct0r">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ <a href="https://codepen.io/1nj3ct0r">
+  <img src="https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&labelColor=white">
  </a>
 </p>
 
