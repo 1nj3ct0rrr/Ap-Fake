@@ -30,3 +30,11 @@ The differences between the versions are not very great, but there are minor var
 ![Image2](https://uupload.ir/files/mdm_2.png)
 
 ![Image3](https://uupload.ir/files/prz1_1.png)
+
+## Follow
+
+<p>
+ <a href="https://linkedin.com/in/1nj3ct0r">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ </a>
+</p>
