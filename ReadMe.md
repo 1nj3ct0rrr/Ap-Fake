@@ -12,7 +12,6 @@ You can run this program online in your browser with [this link](https://appetiz
 
 ## Versions
 
-
 The differences between the versions are not very great, but there are minor variations between the versions that we will check it 😁
 
   * Version 1.0
