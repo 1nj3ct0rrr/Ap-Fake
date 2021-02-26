@@ -60,12 +60,12 @@ The differences between the versions are not very great, but there are minor var
 
 <p>
  <a href="https://codepen.io/1nj3ct0r">
-  <img src="https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&labelColor=white">
+  <img src="https://img.shields.io/badge/CodePen-black?style=flat&logo=codepen&labelColor=black">
  </a>
 </p>
 
 <p>
- <a href="https://linkedin.com/in/1nj3ct0r">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ <a href="https://repl.it/@hesamtavakoli06">
+  <img src="https://img.shields.io/badge/Repl.it-gray?style=flat&logo=repl.it&labelColor=gray">
  </a>
 </p>
