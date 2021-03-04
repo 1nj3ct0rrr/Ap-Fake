@@ -5,7 +5,6 @@
  </a>
 </h1>
   
-
 This Android app gives you the ability to create fake bank receipts 🧾
 
 Note that this program is only for *Iranian* banks and unfortunately does not apply to banks outside Iran 😒🇮🇷
