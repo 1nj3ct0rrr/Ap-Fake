@@ -46,7 +46,7 @@ The differences between the versions are not very great, but there are minor var
 
 <p>
  <a href="https://github.com/1nj3ct0rrr">
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&labelColor=gray">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
  </a>
 </p>
 
@@ -73,3 +73,4 @@ The differences between the versions are not very great, but there are minor var
   <img src="https://img.shields.io/badge/HackerRank-black?style=flat&logo=hackerrank&labelColor=black">
  </a>
 </p>
+
