@@ -30,11 +30,6 @@ The differences between the versions are not very great, but there are minor var
 
 ## Screenshots
 
-![Image1](https://uupload.ir/files/ujwr_3.png)
-
-![Image2](https://uupload.ir/files/mdm_2.png)
-
-![Image3](https://uupload.ir/files/prz1_1.png)
 
 ## Follow
 
