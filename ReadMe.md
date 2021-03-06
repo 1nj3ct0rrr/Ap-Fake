@@ -30,7 +30,6 @@ The differences between the versions are not very great, but there are minor var
 ## Screenshots
 
 ![Menu](https://uupload.ir/files/yo5r_menu.png)
-
 ![Result](https://uupload.ir/files/pxhh_result.png)
 
 ## Follow
